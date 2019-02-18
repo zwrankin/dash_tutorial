@@ -13,7 +13,7 @@ server = app.server
 
 ################################################################################################################
 # LOAD AND PROCESS DATA
-df0 = pd.read_csv('./data/IHME_GBD_2017_HEALTH_SDG_1990_2030_SCALED_Y2018M11D08.csv')
+df0 = pd.read_csv('./data/IHME_GBD_2017_HEALTH_SDG_1990_2030_SCALED_Y2018M11D08.CSV')
 loc_meta = pd.read_csv('./data/location_metadata.csv')
 
 # Indicator Value by country in wide format
