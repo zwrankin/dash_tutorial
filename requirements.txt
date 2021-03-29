@@ -43,7 +43,7 @@ pickleshare==0.7.5
 plotly==3.6.0
 prometheus-client==0.5.0
 prompt-toolkit==2.0.8
-Pygments==2.3.1
+Pygments==2.7.4
 python-dateutil==2.7.5
 pytz==2018.9
 pywinpty==0.5.5
